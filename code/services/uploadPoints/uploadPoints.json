@@ -1,0 +1,10 @@
+{
+    "current_version": 9,
+    "dependencies": "clearblade",
+    "logging_enabled": "true",
+    "name": "uploadPoints",
+    "params": [],
+    "permissions": {},
+    "run_user": "",
+    "source": "uploadPoints.js"
+}
